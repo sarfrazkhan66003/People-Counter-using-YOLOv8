@@ -42,15 +42,15 @@
 ## 🗂️ Project Structure
 
   People-Counter/
-  │
-  ├── People-Counter.py         # Main Python file
-  ├── sort.py                   # SORT tracking module
-  ├── yolov8n.pt                # YOLOv8 model weights
-  ├── mask.png                  # Region mask (optional)
-  ├── graphics.png              # UI graphics (optional)
-  ├── Videos/
-  │   └── people.mp4            # Test video file
-  └── README.md                 # Documentation
+        │
+        ├── People-Counter.py         # Main Python file
+        ├── sort.py                   # SORT tracking module
+        ├── yolov8n.pt                # YOLOv8 model weights
+        ├── mask.png                  # Region mask (optional)
+        ├── graphics.png              # UI graphics (optional)
+        ├── Videos/
+        │   └── people.mp4            # Test video file
+        └── README.md                 # Documentation
 
 ## 🧮 How It Works
 | Step | Process                      | Module             |
