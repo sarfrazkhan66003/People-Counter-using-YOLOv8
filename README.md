@@ -12,7 +12,7 @@
   - Lightweight and runs efficiently on CPU or GPU
 
 🧩 Algorithm Explanation
-  - 1. YOLOv8 – Object Detection
+- 1. YOLOv8 – Object Detection
     - YOLO (You Only Look Once) is a deep learning model for real-time object detection.
     - The model divides the image into grids and predicts bounding boxes and class probabilities.
     - Here, we use yolov8n.pt (Nano version) from the Ultralytics library.
@@ -41,16 +41,16 @@
  
 ## 🗂️ Project Structure
 
-People-Counter/
-│
-├── People-Counter.py         # Main Python file
-├── sort.py                   # SORT tracking module
-├── yolov8n.pt                # YOLOv8 model weights
-├── mask.png                  # Region mask (optional)
-├── graphics.png              # UI graphics (optional)
-├── Videos/
-│   └── people.mp4            # Test video file
-└── README.md                 # Documentation
+  People-Counter/
+  │
+  ├── People-Counter.py         # Main Python file
+  ├── sort.py                   # SORT tracking module
+  ├── yolov8n.pt                # YOLOv8 model weights
+  ├── mask.png                  # Region mask (optional)
+  ├── graphics.png              # UI graphics (optional)
+  ├── Videos/
+  │   └── people.mp4            # Test video file
+  └── README.md                 # Documentation
 
 ## 🧮 How It Works
 | Step | Process                      | Module             |
