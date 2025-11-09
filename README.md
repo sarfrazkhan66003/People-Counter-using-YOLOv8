@@ -41,16 +41,8 @@
  
 ## 🗂️ Project Structure
 
-  People-Counter/
-        │
-        ├── People-Counter.py         # Main Python file
-        ├── sort.py                   # SORT tracking module
-        ├── yolov8n.pt                # YOLOv8 model weights
-        ├── mask.png                  # Region mask (optional)
-        ├── graphics.png              # UI graphics (optional)
-        ├── Videos/
-        │   └── people.mp4            # Test video file
-        └── README.md                 # Documentation
+  <img width="603" height="375" alt="image" src="https://github.com/user-attachments/assets/6b5ebda6-e907-4af8-a45d-7ba72806a72d" />
+
 
 ## 🧮 How It Works
 | Step | Process                      | Module             |
